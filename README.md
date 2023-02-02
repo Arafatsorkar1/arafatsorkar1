@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ICT Project**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter PHP LARAVEL**
 
 - 👯 I’m looking to collaborate on **Improving BD Web project**
 
