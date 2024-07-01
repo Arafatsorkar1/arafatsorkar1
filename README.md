@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/arafatsorkar2" target="blank"><img src="https://img.shields.io/twitter/follow/arafatsorkar2?logo=twitter&style=for-the-badge" alt="arafatsorkar2" /></a> </p>
 
-- 🔭 I’m currently working on **ICT Project**
-
-- 🌱 I’m currently learning **Flutter PHP LARAVEL**
-
-- 👯 I’m looking to collaborate on **Improving BD Web project**
-
-- 🤝 I’m looking for help with **ICT Ministry**
-
 - 👨‍💻 All of my projects are available at [https://codeforces.com/profile/Arafat12345](https://codeforces.com/profile/Arafat12345)
 
 - 💬 Ask me about **https://www.facebook.com/Arafatsorkar12345/**
